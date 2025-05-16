@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirra</h1>
 <h3 align="center">Building the future with data, one strategic decision at a time</h3>
 
-- 🔭 I’m currently studying **Data Science and Data Engineer**
+- 🔭 I’m a **Data Scientist** and currently studying **Software Engineer**
 
 - 🌱 I’m currently learning **PowerBI**
 
